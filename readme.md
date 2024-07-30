@@ -11,3 +11,16 @@ A satelite made to run 100 years straight should be coded in Rust! (So your app 
 3- Concurrency: Rust's concurrency model allows developers to write safe and efficient parallel code. This is important for satellite systems that may need to handle multiple tasks simultaneously, such as data collection, communication, and system monitoring.
 
 4- Reliability and Predictability: The language's strong type system and compile-time checks help catch errors early in the development process, reducing the likelihood of runtime failures. This reliability is essential for long-duration missions where software updates or repairs are impractical.
+
+## Reality
+The reality is Artificial Intelligence will do most of the coding. Ai is far superior to your brain, get over it. 
+
+Childish youtubers and "content creators" make new videos on the daily saying Rust is good or bad. Such videos literally make you stupider. LEARN TO DISCERN! 
+If you are smart and wise enough to see the value of Rust, you should be wise enough to realize how childish usurpers of your learning are making you stupider. Wasting time
+with learning the wrong langs and studying the wrong things is pure stupidity. Rust is the firsrt of a new class- anything lesser is just stupid. It would be like running a Model-T car on a coast to coast trip across America and trying to convince others that your Model-T is the best way to do it. 
+
+There are NO SHORTCUTS in life, snowflake! Sure, langs such as Python and Go are easy to learn and can do things fast. Guess what? First off, the easy to learn langs are already mastered by Ai, and Ai can write 2000 apps in the time it takes you to write one. Moreover, the finished product of an easy lang is no where near the finished product the same app in Rust could make. Python and Go are both awesome and you can write just about anything in either lang- or you could write the same app in Rust and it would be better in many objective ways. 
+
+Rust is too hard to learn? Not really. If you start with console apps that only use the standard library, the rust code is just as easy as any other lang. Ai such as chatgpt can get you started with Rust, guide you the entire way, answer any questions you have. If you are willing to learn a bit more every day and stick with it, rust may take you longer to learn than it takes others to learn, but Rust is NOT beyond your reach! Learn to discern. There are no shortcuts. Dive into Rust, and you will see things differently. Rust is worth sticking with- and VERY FEW langs can honestly say that. Rust is god! 
+
+
