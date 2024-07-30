@@ -17,7 +17,8 @@ A satellite made to run 100 years straight should be coded in Rust! (So your app
 
 ## Reality
 
-The reality is that Artificial Intelligence will do most of the coding. AI is far superior to your brain- get over it.
+The reality is that Artificial Intelligence will do most of the coding. AI is far superior to your brain- get over it. Drop your pathetic ego that is often seen on twitter (X) tech trash posts. No one is impressed by 
+a stupid post saying how good you are. Ai is better. 
 
 Microsoft reported that around 70% of the security vulnerabilities in its products are due to memory safety issues. These vulnerabilities often arise from programming languages like C and C++, which allow for manual memory management, leading to common problems such as buffer overflows and use-after-free errors. To address this, Microsoft is increasingly adopting Rust, a programming language designed with strong memory safety guarantees. So do YOU think Rust is worth learning, or do you want a world full of memory exploits where every app can be easily hacked??
 
