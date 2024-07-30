@@ -2,14 +2,12 @@
 
 ## Rust is God! It is the first of a new class of langs- a new level of what one should expect from any lang. 
 
-Rust is rapidly gaining traction in the programming community for several compelling reasons, chief among them being its emphasis on safety, performance, and concurrency. Unlike many traditional languages, Rust guarantees memory safety without relying on a garbage collector, which means developers can write code that is both fast and safe. The language's ownership model, coupled with its concept of borrowing and lifetimes, helps to prevent a wide range of common programming errors, such as null pointer dereferencing and data races. These features make Rust particularly appealing for systems programming, where low-level memory manipulation and concurrency are prevalent, and any errors can lead to critical security vulnerabilities or crashes.
+A satelite made to run 100 years straight should be coded in Rust! (So your app should be too!)
 
-Moreover, Rust's ecosystem is robust and continually growing, with a strong emphasis on tooling and developer experience. The Cargo build system and package manager simplify dependency management and project configuration, making it easier for developers to build and share libraries. Rust's syntax is also designed to be expressive and ergonomic, making it approachable for developers who are familiar with other programming languages. As a result, Rust has been adopted in various domains, from web development to embedded systems, and has even been integrated into major projects by companies like Mozilla, Microsoft, and Amazon. For developers looking to invest in a language that prioritizes safety, performance, and modern concurrency features, Rust presents a compelling case as a language worth learning and mastering.
+1- Memory Safety: Rust's strict memory management model eliminates common bugs such as buffer overflows, null pointer dereferencing, and memory leaks. In a satellite application, where the software must run reliably without human intervention for decades, these safety guarantees are crucial.
 
+2- Performance: Rust's performance is comparable to C and C++, which are traditionally used in systems programming and embedded systems due to their low-level control and efficiency. Rust achieves this without sacrificing safety, making it ideal for the resource-constrained environments often found in space applications.
 
+3- Concurrency: Rust's concurrency model allows developers to write safe and efficient parallel code. This is important for satellite systems that may need to handle multiple tasks simultaneously, such as data collection, communication, and system monitoring.
 
-
-
-
-
-
+4- Reliability and Predictability: The language's strong type system and compile-time checks help catch errors early in the development process, reducing the likelihood of runtime failures. This reliability is essential for long-duration missions where software updates or repairs are impractical.
