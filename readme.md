@@ -5,7 +5,7 @@
 
 Rust is God! It is the first of a new class of langs- a new level of what one should expect from any lang. 
 
-A satelite made to run 100 years straight should be coded in Rust! (So your app should be too!)
+A satellite made to run 100 years straight should be coded in Rust! (So your app should be too!)
 
 1- Memory Safety: Rust's strict memory management model eliminates common bugs such as buffer overflows, null pointer dereferencing, and memory leaks. In a satellite application, where the software must run reliably without human intervention for decades, these safety guarantees are crucial.
 
