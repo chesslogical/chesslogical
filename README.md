@@ -8,7 +8,7 @@ Tech has become a bunch of delusional influencers trying to convince the world t
 
 # Best lang-
 
-From web dev to anything, Rust is objectively superior. Ai will poop out a superior lang for sure, but for now the combo of Ai and the ultra strict Rust compiler produces  superior code. Any lang that compiles junk code without halting is profoundly inferior. The combo of ai and the rust compiler work together and give you an awesome app...even if you do not know a thing about coding !!! 
+From web dev to anything, Rust is objectively superior. Ai will one day poop out a superior lang for sure, but for now the combo of Ai and the ultra strict Rust compiler produces superior code. Any lang that compiles junk code without halting is profoundly inferior. The combo of ai and the rust compiler work together and give you an awesome app...even if you do not know a thing about coding !!! 
 
 ![3](https://github.com/user-attachments/assets/92b503f2-5576-4a9e-87a8-1ef612393cb5)
 
