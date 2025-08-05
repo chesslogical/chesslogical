@@ -6,8 +6,15 @@ Tech has become a bunch of delusional influencers trying to convince the world t
 
 
 
-![GRUp2mDW0AAsAKh](https://github.com/user-attachments/assets/4574289c-56eb-4b6a-aeca-50163dda3796)
+# Best lang
 
-
+From web dev to anything, Rust is objectively superior 
 
 ![3](https://github.com/user-attachments/assets/92b503f2-5576-4a9e-87a8-1ef612393cb5)
+
+
+# Do you play call of duty all day? 
+Naa but i play chess some of the day. 
+
+
+![GRUp2mDW0AAsAKh](https://github.com/user-attachments/assets/4574289c-56eb-4b6a-aeca-50163dda3796)
