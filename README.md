@@ -5,7 +5,8 @@
 Ai can do in a minute what the human brain will never be able to do in a lifetime. So all the so called tech influencers who try to knock ai and make click bait videos that just make you stupider (prime/theo vids for example) are noise, not the signal. You see, in life you want to focus on the signal, not the noise. 
 
 
-
+# Who do i follow on github> -
+Only the best ! 
 
 
 # Best lang-
