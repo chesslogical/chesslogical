@@ -1,6 +1,6 @@
 ![a1500x500](https://github.com/user-attachments/assets/acda01e9-9281-4c00-a739-8810b5df9e89)
 
-# The human brain is not that smart-
+# Signal > Noise -
 
 Ai can do in a minute what most ppl will never be able to do in a lifetime. So all the so called tech influencers who try to knock ai and make click bait videos that just make you stupider (prime/theo vids for example) are noise, not the signal. You see, in life you want to focus on the signal, not the noise. 
 
