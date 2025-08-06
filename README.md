@@ -10,7 +10,7 @@ Ai can do in a minute what the human brain will never be able to do in a lifetim
 
 # Rust is god. -
 
-From web dev to anything, Rust is objectively superior. Ai will one day poop out a superior lang for sure, but for now the combo of Ai and the ultra strict Rust compiler produces superior code. 
+From web dev to anything, Rust is objectively superior. Ai will one day poop out a superior lang for sure, but for now the combo of Ai and the ultra strict Rust compiler produces superior code. It is like 2 experts working together to produce superior code. 
 
 
 ![3](https://github.com/user-attachments/assets/92b503f2-5576-4a9e-87a8-1ef612393cb5)
